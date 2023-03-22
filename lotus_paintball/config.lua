@@ -2,9 +2,9 @@ Config = {}
 Config.locale = 'en'
 
 Config.Discord = {
-  WebhookURL = "https://discord.com/api/webhooks/789677808381198347/dm1OKwq7nFwkF021nVO3oheiurynP_fAQiYoBofMzaQwYFDubKfhBEj8-p5QrOYYMcNh",
-  AvatarURL = "https://spng.subpng.com/20180611/koe/kisspng-paintball-logo-arma-3-dye-brand-5b1eb45bc9e382.4384086215287389078269.jpg",
-  Username = "Lotus Paintball",
+  WebhookURL = "DISCORD_WEBHOOK",
+  AvatarURL = "WEBHOOK_IMAGE_URL",
+  Username = "Paintball",
 }
 
 Config.Paintball = {
